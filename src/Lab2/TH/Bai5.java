@@ -1,5 +1,5 @@
-package Lab2;
-import java.util.Scanner;
+package Lab2.TH;
+
 class student{
     private String stID;
     private String stName;
@@ -13,7 +13,7 @@ class student{
     public String getStID(){
         return stID;
     }
-    public void setStID(String stName) {
+    public void setStID(String stID) {
         this.stName = stName;
 
 }
