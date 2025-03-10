@@ -35,38 +35,6 @@ class SinhVien {
 }
 }
 
-class sv[]{
-private int[] array;
-private Scanner kb;
-
-public sv(Scanner scanner) {
-    this.kb = scanner;
-}
-public void inputArray() {
-    System.out.print("Nhập số phần tử của mảng: ");
-    int n = kb.nextInt();
-    array = new int[n];
-
-    System.out.println("Nhập các phần tử của mảng:");
-    for (int i = 0; i < n; i++) {
-        System.out.print("Phần tử thứ " + (i + 1) + ": ");
-        array[i] = kb.nextInt();
-    }
-    public void displayArray() {
-        System.out.println("Các phần tử trong mảng:");
-        for (int value : array) {
-            System.out.print(value + " ");
-        }
-        System.out.println();
-    }
-}   public void sortArray() {
-    Arrays.sort(array);
-    System.out.println("Mảng sau khi sắp xếp:");
-    displayArray();
-}
-}
-
-    }
 public class b1 {
     public static void main(String[] args) {
         int mssv;
