@@ -1,7 +1,5 @@
-package Lab2.buoi7.bainguoi;
-import Lab2.buoi7.bainguoi.Person;
-import Lab2.buoi7.bainguoi.Customer;
-import Lab2.buoi7.bainguoi.Employee;
+package lythuyet.buoi7.bainguoi;
+
 public class Main {
 
     public static void main(String[] args) {

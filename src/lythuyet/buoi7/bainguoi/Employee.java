@@ -1,4 +1,4 @@
-package Lab2.buoi7.bainguoi;
+package lythuyet.buoi7.bainguoi;
 public class Employee extends Person {
     private int salary;
 

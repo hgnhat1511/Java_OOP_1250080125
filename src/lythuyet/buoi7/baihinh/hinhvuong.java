@@ -1,4 +1,4 @@
-package Lab2.buoi7.baihinh;
+package lythuyet.buoi7.baihinh;
 
 import java.util.Scanner;
 

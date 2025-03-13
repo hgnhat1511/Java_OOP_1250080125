@@ -1,4 +1,4 @@
-package Lab2.buoi7.baihinh;
+package lythuyet.buoi8.lophinh;
 
 import java.util.Scanner;
 
@@ -6,8 +6,24 @@ public class hinhtron extends hinhhoc {
     float bankinh;
 
     public hinhtron() {
+        this.ten ="hinh tron";
     }
-
+    @Override
+    void xuatten() {
+        System.out.println("ten"+ten);
+    }
+    @Override
+    void inchuvi() {
+        System.out.println("chu vi la : "+chuvi);
+    }
+    @Override
+    void indientich() {
+        System.out.println("dien tich la : "+dientich);
+    }
+    @Override
+    void inthetich() {
+        System.out.println("the tich la : "+thetich);
+    }
     void nhapbankinh() {
         System.out.println("nhap ban kinh:");
         Scanner kb = new Scanner(System.in);

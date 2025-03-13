@@ -1,4 +1,4 @@
-package Lab2.buoi7.bainguoi;
+package lythuyet.buoi7.bainguoi;
 public class Person {
     private String name;
     private String address;
