@@ -6,7 +6,7 @@ public class hinhtru extends hinhtron {
     float chieucao;
 
     public hinhtru() {
-        this.ten ="hinh tru";
+        this.ten =" hinh tru";
     }
     void nhapchieucao() {
         System.out.println("nhap chieu cao:");

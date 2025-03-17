@@ -8,7 +8,7 @@ public class hinhchunhat extends hinhhoc {
     float rong;
 
     public hinhchunhat() {
-        this.ten ="hinh chu nhat";
+        this.ten =" hinh chu nhat";
     }
 
     @Override

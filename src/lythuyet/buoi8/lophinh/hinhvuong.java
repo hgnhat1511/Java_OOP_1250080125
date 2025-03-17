@@ -6,6 +6,7 @@ public class hinhvuong extends hinhchunhat {
     float canh;
 
     public hinhvuong() {
+        this.ten =" hinh vuong";
     }
 
     void nhapcanh() {

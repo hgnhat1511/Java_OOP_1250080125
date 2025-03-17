@@ -6,7 +6,7 @@ public class hinhtron extends hinhhoc {
     float bankinh;
 
     public hinhtron() {
-        this.ten ="hinh tron";
+        this.ten =" hinh tron";
     }
     @Override
     void xuatten() {
